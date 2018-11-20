@@ -1,0 +1,23 @@
+{
+  "name": "Angular-TypeScript",
+  "version": "1.0.0",
+  "description": "Starter files and support materials for the Pluralsight course: \"Angular with TypeScript\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeborahK/Angular-TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeborahK/Angular-TypeScript/issues"
+  },
+  "homepage": "https://github.com/DeborahK/Angular-TypeScript#readme",
+  "dependencies": {
+    "@types/angular": "^1.6.51"
+  }
+}
