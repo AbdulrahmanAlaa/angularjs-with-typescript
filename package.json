@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/DeborahK/Angular-TypeScript#readme",
   "dependencies": {
-    "@types/angular": "^1.6.51"
+    "@types/angular": "^1.6.51",
+    "@types/angular-mocks": "^1.7.0",
+    "@types/angular-resource": "^1.5.14"
   }
 }
