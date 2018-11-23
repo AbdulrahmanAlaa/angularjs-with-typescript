@@ -20,6 +20,7 @@
   "dependencies": {
     "@types/angular": "^1.6.51",
     "@types/angular-mocks": "^1.7.0",
-    "@types/angular-resource": "^1.5.14"
+    "@types/angular-resource": "^1.5.14",
+    "@types/angular-route": "^1.7.0"
   }
 }
