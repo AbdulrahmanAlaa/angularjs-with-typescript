@@ -46,3 +46,4 @@ var app;
         }
     })(common = app.common || (app.common = {}));
 })(app || (app = {}));
+//# sourceMappingURL=productResourceMock.js.map

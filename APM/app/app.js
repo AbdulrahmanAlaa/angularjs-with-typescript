@@ -19,17 +19,5 @@ var app;
         })
             .otherwise({ redirectTo: '/productList' });
     }
-    main.run([
-        '$rootScope',
-        function ($rootScope) {
-            // see what's going on when the route tries to change
-            $rootScope.$on('$routeChangeStart', function (event, next, current) {
-                // next is an object that is the route that we are starting to go to
-                // current is an object that is the route where we are currently
-                var currentPath = current;
-                var nextPath = next;
-                console.log('Starting to leave  to go to', currentPath, nextPath);
-            });
-        }
-    ]);
 })(app || (app = {}));
+//# sourceMappingURL=app.js.map
